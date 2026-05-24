@@ -204,10 +204,7 @@ Most portfolio projects stop at EDA or a single model. This project:
 ## 👤 Author
 
 **Abdullah Can Kibritoğlu**
-Data Science · Machine Learning · Business Intelligence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
 
 ---
 
