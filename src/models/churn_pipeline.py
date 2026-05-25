@@ -27,7 +27,7 @@ class ChurnPipeline:
     def prepare_features(self, df):
         """Feature'ları hazırla, encode et"""
         
-        # Kategorik kolonları encode et
+    
         cat_cols = ['top_category', 'top_payment', 'customer_state', 'segment']
         
         df = df.copy()
@@ -87,7 +87,7 @@ class ChurnPipeline:
 
 if __name__ == "__main__":
     
-    # Veriyi hazırla
+    
     fe = fe = FeatureEngineer('postgresql://postgres:ack@localhost:5432/main_project')
     fe.load_data()
     fe.create_customer_features()
